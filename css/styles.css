@@ -1,0 +1,40 @@
+h2 {
+  display: none;
+  text-align: center;
+  font-size: 60px;
+}
+h1 {
+  text-align: center;
+  font-size: 65px;
+}
+p {
+  margin-top: 40px;
+}
+form{
+  margin-top: 50px;
+}
+#strawberrita {
+  font-family: cursive;
+  color: red;
+}
+#jack {
+  font-family: monospace;
+  color: brown;
+}
+#everclear {
+  font-family: impact;
+  color: blue;
+  text-shadow: 4px 4px red;
+}
+.btn {
+  margin-top: 25px;
+}
+body {
+  background-color: lightblue;
+}
+img {
+  width: 250px;
+  display: block;
+  margin: auto;
+  border: 3px solid black;
+}
